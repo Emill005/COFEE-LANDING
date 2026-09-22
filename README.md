@@ -2,8 +2,7 @@
 
 Contemporary landing page for a specialty coffee shop with interactive menu filtering, smooth UI, and a table booking modal.
 
-🔗 **Live Demo:** [Open AURA Coffee Website](ВСТАВЬ_СЮДА_СВОЮ_ССЫЛКУ_ИЗ_BOLT)
-
+🔗 **Live Demo:** [Open AURA Coffee Website]https://aura-coffee-landing-ydcq.bolt.host/
 ### Tech Stack:
 * HTML5 / Modern CSS
 * Vanilla JavaScript
